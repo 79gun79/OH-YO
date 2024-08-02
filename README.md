@@ -1,11 +1,9 @@
-s<div align='center'>
+<div align='center'>
 
 <h1><b>OH-YO! 🖐️</b></h1>
-<h3><b>-하는 서비스, OH-YO!</b></h3>
+<h3><b>프로젝트 부제목</b></h3>
 
 🔗 [배포 링크](https://)
-
----
 
 <img src="" alt="intro title image"/>
 
@@ -33,7 +31,14 @@ s<div align='center'>
 
 ## <span id="1">🚩 1. 프로젝트 소개</span>
 
-Notion: https://smiling-wednesday-6f2.notion.site/OH-YO-a0cd6a071ea741948c0a5b7d8e64a3fe?pvs=4
+Notion: [프로젝트 노션 링크](https://)
+
+프로젝트에 대한 전반적인 소개를 여기에 적어주세요.
+
+<br>
+
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
 
 <br>
 
@@ -41,18 +46,25 @@ Notion: https://smiling-wednesday-6f2.notion.site/OH-YO-a0cd6a071ea741948c0a5b7d
 
 <div align="center">
 
-|                                                                  [이재건](https://github.com/79gun79)                                                                   |                                                                [박시은](https://github.com/MyNameSieun)                                                                 |
+|                                                           [이재건](https://github.com/79gun79)                                                                  |                                                         [박시은](https://github.com/MyNameSieun)                                                                        |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                               <img src="" width="120px;" alt="재건사진"/>                                                               |                                                               <img src="" width="120px;" alt="시은사진"/>                                                               |
-| <img src="https://img.shields.io/badge/기능1-FF5727" /> <img src="https://img.shields.io/badge/기능2-365486" /> <img src="https://img.shields.io/badge/기능3-609966" /> | <img src="https://img.shields.io/badge/기능1-FF5727" /> <img src="https://img.shields.io/badge/기능2-365486" /> <img src="https://img.shields.io/badge/기능3-609966" /> |
+|                                                              <img src="" width="120px;" alt="재건 사진"/>                                                              |                                                              <img src="" width="120px;" alt="시은 사진"/>                                                              |ds.io/badge/기능2-365486" /> <img src="https://img.shields.io/badge/기능3-609966" /> |
+| <img src="https://img.shields.io/badge/기능1-FF5727" /> <img src="https://img.shields.io/badge/기능2-365486" /> <img src="https://img.shields.io/badge/기능3-609966" /> | <img src="https://img.shields.io/badge/기능1-FF5727" /> <img src="https://img.shiel
 
 </div>
 
 <br>
 
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
+
+<br>
+
 ## <span id="3">📅 3. 개발 일정</span>
 
-> 2024.00.00 ~ 2024.00.00
+> 프로젝트 개발 기간: 2024.00.00 ~ 2024.00.00
+
+<br>
 
 <!-- Top Button -->
 <p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
@@ -91,7 +103,14 @@ Notion: https://smiling-wednesday-6f2.notion.site/OH-YO-a0cd6a071ea741948c0a5b7d
 
 <br>
 
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
+
+<br>
+
 ## <span id="5">❓ 5. 라이브러리 사용 이유</span>
+
+각 라이브러리의 사용 이유를 설명해주세요.
 
 > React
 
@@ -109,19 +128,41 @@ Notion: https://smiling-wednesday-6f2.notion.site/OH-YO-a0cd6a071ea741948c0a5b7d
 
 <br>
 
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
+
+<br>
+
 ## <span id="6">🤝 6. 컨벤션</span>
 
 ### prettier
 
-```
-
+```json
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "singleQuote": true,
+  "trailingComma": "all",
+  "semi": false
+}
 ```
 
 ### 커밋 컨벤션
 
 ```
-
+feat: 새로운 기능 추가
+fix: 버그 수정
+docs: 문서 수정
+style: 코드 포맷팅, 세미콜론 누락, 코드 변경이 없는 경우
+refactor: 코드 리팩토링
+test: 테스트 추가, 테스트 리팩토링 (프로덕션 코드 변경 없음)
+chore: 빌드 업무 수정, 패키지 매니저 설정 수정 (프로덕션 코드 변경 없음)
 ```
+
+<br>
+
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
 
 <br>
 
@@ -138,14 +179,30 @@ Notion: https://smiling-wednesday-6f2.notion.site/OH-YO-a0cd6a071ea741948c0a5b7d
 > 디렉토리 구조
 
 ```
+.
+├── src
+│   ├── components
+│   ├── pages
+│   ├── redux
+│   ├── utils
+│   └── App.js
+├── public
+│   ├── index.html
+│   └── favicon.ico
+└── package.json
 
 ```
 
 <br>
 
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
+
+<br>
+
 ## <span id="8">8. 💻 주요 기능 소개</span>
 
---⚠️ gif로 넣기--
+프로젝트의 주요 기능을 GIF를 첨부하여 설명해주세요.
 
 ### 1) 홈
 
@@ -167,9 +224,14 @@ Notion: https://smiling-wednesday-6f2.notion.site/OH-YO-a0cd6a071ea741948c0a5b7d
 
 <br>
 
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
+
+<br>
+
 ## <span id="9">9. 📄 상세 담당 업무</span>
 
-### 1) 재건
+### 1) 이재건
 
 - **🎨 디자인**
 
@@ -191,7 +253,7 @@ Notion: https://smiling-wednesday-6f2.notion.site/OH-YO-a0cd6a071ea741948c0a5b7d
 - **♻️ 리팩토링**
   - 관련 설명
 
-### 2) 시은
+### 2) 박시은
 
 - **🎨 디자인**
 
@@ -215,6 +277,11 @@ Notion: https://smiling-wednesday-6f2.notion.site/OH-YO-a0cd6a071ea741948c0a5b7d
 
 - **♻️ 리팩토링**
   - 관련 설명
+
+<br>
+
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
 
 <br>
 
@@ -250,6 +317,11 @@ Notion: https://smiling-wednesday-6f2.notion.site/OH-YO-a0cd6a071ea741948c0a5b7d
 
 <br>
 
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
+
+<br>
+
 ## <span id="11">🚦 11. 트러블 슈팅</span>
 
 <details>
@@ -268,7 +340,17 @@ Notion: https://smiling-wednesday-6f2.notion.site/OH-YO-a0cd6a071ea741948c0a5b7d
 
 <br>
 
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
+
+<br>
+
 ## <span id="12">12. 📝 프로젝트 회고</span>
+
+프로젝트 진행 후 느낀 점과 개선할 점을 적어주세요. 블로그에 작성하셨다면 블로그 링크를 첨부해주세요.
+
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
 
 <br>
 
@@ -284,3 +366,6 @@ $ yarn
 ```
 
 <br>
+
+<!-- Top Button -->
+<p style='background: black; width: 32px; height: 32px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-left: auto;'><a href="#top" style='color: white; '>▲</a></p>
